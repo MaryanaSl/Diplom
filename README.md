@@ -45,3 +45,9 @@
 
 Проект находится на странице [репозитория с дипломом](https://github.com/MaryanaSl/Diplom_SL). Сценарии в папке "Тестирование", инструкция на главной странице в файле README.md. Информационная база в папке Releases
 
+Чтобы посмотреть код на странице репозитория необходимо развернуть текст.
+
+![image](https://github.com/user-attachments/assets/77889dc2-ebc6-4971-bc8d-c0d8d7f404b5)
+![image](https://github.com/user-attachments/assets/8bfb2687-aed6-476e-b25a-dc7ef78b13db)
+
+
